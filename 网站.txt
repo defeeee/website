@@ -1,0 +1,87 @@
+https://www.bilibili.com/video/av38134807?p=2          每日英语听力
+ 
+
+https://www.django-rest-framework.org/api-guide/validators/#currentuserdefault
+django rest framework 官方文档
+
+http://getblimp.github.io/django-rest-framework-jwt/#verify-token
+REST framework JWT Auth   官方文档
+ 
+
+
+
+https://www.cnblogs.com/derek1184405959/p/8768059.html           Django REST framework+Vue 打造生鲜超市（四）
+
+https://www.jianshu.com/p/180a870a308a                           前后端分离之JWT用户认证
+
+https://www.cnblogs.com/52forjie/category/1100221.html          django基础知识
+
+https://blog.csdn.net/zelinhehe/article/details/80366105         Django从请求到返回都经历了什么
+
+https://www.jb51.net/article/144871.htm                          django从请求到响应的过程深入讲解
+
+https://www.zhoulujun.cn/html/theory/model/8026.html             前后端分离API设计指南
+
+https://www.jianshu.com/p/80f4ad546d87                           Django Restful api 构建教程
+
+https://www.cnblogs.com/xiaojikuaipao/p/6009882.html            利用 Django REST framework 编写 RESTful API
+ 
+https://www.cnblogs.com/zhouyang123200/p/6606405.html           利用Django实现RESTful API(一)
+
+https://www.cnblogs.com/jay54520/p/6587480.html                 django restframework 的日常使用
+
+https://segmentfault.com/blog/duoduo3369?page=2                 后端开发那点事儿（django restframework）
+
+https://blog.csdn.net/zhusongziye/article/list/2?t=1&           SQL数据库面试题以及答案
+
+http://www.cnblogs.com/intsmaze/p/6384105.html                  一句话说清分布式锁，进程锁，线程锁
+
+https://blog.csdn.net/b9x__/article/details/80400697 
+https://www.cnblogs.com/xiohao/p/6433401.html                 Nginx是什么，有什么优点？为什么选择Nginx做web服务器软件?
+
+https://www.cnblogs.com/zhaof/p/8490045.html                     python中重要的模块--asyncio
+
+https://www.cnblogs.com/zcqdream/p/6196040.html                协程--gevent模块(单线程高并发)
+
+https://segmentfault.com/a/1190000008227211                      MyISAM与InnoDB区别: 
+
+https://blog.csdn.net/wuyangyang555/article/details/82152005    redis原理总结(很全面)
+
+https://www.cnblogs.com/petrolero/p/9816065.html               什么是事务？MySQL如何支持事务？  
+
+https://www.cnblogs.com/luyucheng/p/6289714.html               MySQL索引类型
+
+https://blog.csdn.net/sinat_38899493/article/details/78710482     MySql常用函数大全讲解
+
+https://blog.csdn.net/weixin_42295141/article/details/81380633     Redis是什么？什么作用？优点和缺点
+
+https://www.cnblogs.com/Eva-J/articles/5152841.html             python——操作Redis
+
+https://github.com/antirez/disque               Disque，一种内存中的分布式作业队列      “Redis作为作业队列”
+
+https://www.cnblogs.com/ironPhoenix/p/6048467.html
+https://blog.csdn.net/junli_chen/article/details/79228282       用Redis构建分布式锁-RedLock(真分布)
+
+http://www.cnblogs.com/wupeiqi/articles/5703697.html            Python开发【第十六篇】：AJAX全套
+
+https://blog.csdn.net/bbwangj/article/details/86435063         django部分组件
+
+http://www.cnblogs.com/huchong/p/8469063.html#_lab2_3_0         JSONP、CORS解决跨域问题
+
+http://python.jobbole.com/88653/                          Python Web开发最难懂的WSGI协议，到底包含哪些内容？
+
+https://www.cnblogs.com/huguodong/p/6611602.html             利用dwebsocket在Django中使用Websocket
+
+https://blog.csdn.net/u012556900/article/details/57412707       CSRF攻击原理&Django的应用方法
+
+https://www.cnblogs.com/413xiaol/p/6504856.html                Django数据库操作（执行原生SQL）
+
+https://www.cnblogs.com/vipchenwei/p/7867028.html                Django Rest Framework
+
+
+
+
+
+
+
+
